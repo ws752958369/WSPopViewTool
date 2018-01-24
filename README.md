@@ -6,7 +6,6 @@ presentView.frame = CGRectMake(0, 0, self.view.ws_width, 300);
 presentView.backgroundColor = [UIColor yellowColor];
 
 //点击弹出框周围是否隐藏
-
 presentView.hideShouldTouchOutside = NO;
 
 //不带偏移
